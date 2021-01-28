@@ -12,6 +12,6 @@ namespace PersonelApp.Domains
         public string Adi { get; set; }
         public string Soyadi { get; set; }
         public int DepartmentId { get; set; } //personel ve departman arasında bire çok bir ilişki olduğu için aralarında foreingnkey olacak
-        public Department Department { get; set; } // birde navigationpropertyi verecek her personel bir deparmana dahil
+        public Department Department { get; set; } // dfgbirde navigationpropertyi verecek her personel bir deparmana dahil
     }
 }
