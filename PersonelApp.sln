@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonelApp.Domains", "PersonelApp.Domains\PersonelApp.Domains.csproj", "{D6D1EC68-3D5A-4E13-9B84-0F9FCC44092E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonelApp.Dal", "PersonelApp.Dal\PersonelApp.Dal.csproj", "{0ECF0DEE-2250-4F6E-B7E6-94CDED7600B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6D1EC68-3D5A-4E13-9B84-0F9FCC44092E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6D1EC68-3D5A-4E13-9B84-0F9FCC44092E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6D1EC68-3D5A-4E13-9B84-0F9FCC44092E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6D1EC68-3D5A-4E13-9B84-0F9FCC44092E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0ECF0DEE-2250-4F6E-B7E6-94CDED7600B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ECF0DEE-2250-4F6E-B7E6-94CDED7600B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ECF0DEE-2250-4F6E-B7E6-94CDED7600B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ECF0DEE-2250-4F6E-B7E6-94CDED7600B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E903EB7F-E9D0-4262-A11B-D07E73D93C7F}
+	EndGlobalSection
+EndGlobal
