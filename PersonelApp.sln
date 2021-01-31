@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonelApp.Domains", "Pers
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonelApp.Dal", "PersonelApp.Dal\PersonelApp.Dal.csproj", "{0ECF0DEE-2250-4F6E-B7E6-94CDED7600B8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonelApp.UI", "PersonelApp.UI\PersonelApp.UI.csproj", "{5B6ACB7E-EE9D-4A02-B6ED-1B05B8654CEC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{0ECF0DEE-2250-4F6E-B7E6-94CDED7600B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0ECF0DEE-2250-4F6E-B7E6-94CDED7600B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0ECF0DEE-2250-4F6E-B7E6-94CDED7600B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B6ACB7E-EE9D-4A02-B6ED-1B05B8654CEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B6ACB7E-EE9D-4A02-B6ED-1B05B8654CEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B6ACB7E-EE9D-4A02-B6ED-1B05B8654CEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B6ACB7E-EE9D-4A02-B6ED-1B05B8654CEC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
